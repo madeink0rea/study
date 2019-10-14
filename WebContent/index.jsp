@@ -7,6 +7,6 @@
 <title>reboot</title>
 </head>
 <body>
-Hello Hyojin! 
+Hello World! 
 </body>
 </html>
